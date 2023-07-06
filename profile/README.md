@@ -9,6 +9,7 @@
 
 - 🎼 Period : 2022.11.14 ~ 2022.11.25 (2인 12일)
 - 📑 Notion : https://gratis-ceder-84d.notion.site/PJT-c8627e5d8f90493188c5f4dd543f5757?pvs=4
+- 🖥 PPT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://docs.google.com/presentation/d/1NqRCnrjpmG5DK7aA6edSAT1v-czZ5KO-/edit?usp=drive_link&ouid=105091304881981376349&rtpof=true&sd=true
 
 <br>
 
